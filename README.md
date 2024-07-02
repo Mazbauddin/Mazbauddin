@@ -12,7 +12,7 @@ A highly motivated and detail-oriented front-end developer seeking to leverage e
             alt="html5"
             width="40"
             height="40"
-          margin-right="50px"
+          margin-right="150"
           />
         </a>
         <a
