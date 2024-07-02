@@ -6,6 +6,10 @@
 
 <h3 align="left">About Me:</h3>
 <p>A highly motivated and detail-oriented front-end developer seeking to leverage expertise in HTML, CSS, JavaScript, React.js, and modern UI frameworks like Tailwind CSS and Material-Tailwind to create user-friendly, responsive, and dynamic web applications. Passionate about delivering high-quality code and improving user experience through innovative solutions.</p>
+- 👑 I’m a Web Developer.
+- 🌱 I’m currently learning Javascript 
+- 🖊️ Love to write code  
+- 👯 I’m looking to collaborate on github 
 
 <h3 align="left">Languages and Tools:</h3>
      <p align="center" class="ml-10">
@@ -110,15 +114,13 @@
 
 
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Javascript 
-- 👯 I’m looking to collaborate on github 
+
 
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=Mazbauddin&theme=buefy&hide_border=false"></p>
 
 <h3 align="left">Connect With Me:</h3>
-<p align="center">
+<p align="left">
      <a href="https://github.com/Mazbauddin">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
      </a>
