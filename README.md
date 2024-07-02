@@ -2,7 +2,7 @@
 
 ![Frontend Developer](https://media.licdn.com/dms/image/D5616AQHqEjta6hqrvw/profile-displaybackgroundimage-shrink_350_1400/0/1719914432085?e=1725494400&v=beta&t=RSiYrWBd1FF00LMHuMtGEYoufLJ3VY3IHQktRfrt1fc)
 
-<h2 class="text-center">Hi  👋, I'M Mazba Uddin Shawon</h2>
+<h2 align="text-center">Hi  👋, I'M Mazba Uddin Shawon</h2>
 
 A highly motivated and detail-oriented front-end developer seeking to leverage expertise in HTML, CSS, JavaScript, React.js, and modern UI frameworks like Tailwind CSS and Material-Tailwind to create user-friendly, responsive, and dynamic web applications. Passionate about delivering high-quality code and improving user experience through innovative solutions.
 
