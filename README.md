@@ -146,7 +146,7 @@
 
 
 <h3 align="left">Support Me:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/mazbaudding"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/mazbaudding" /></a></p><br><br>
+<p><a href="https://buymeacoffee.com/mazbaudding"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/mazbaudding" /></a></p><br><br>
 
 
 
