@@ -134,13 +134,9 @@
       <a href="https://www.facebook.com/mazbashawon">
           <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>
      </a>
-      <a href="https://github.com/Mazbauddin">
-          <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
-     </a>
-      <br/>
-
-
 </p>
+
+<br/>
 
 <h3 align="center">Badge:</h3>
 
