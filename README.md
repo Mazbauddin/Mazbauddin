@@ -7,7 +7,7 @@
 A highly motivated and detail-oriented front-end developer seeking to leverage expertise in HTML, CSS, JavaScript, React.js, and modern UI frameworks like Tailwind CSS and Material-Tailwind to create user-friendly, responsive, and dynamic web applications. Passionate about delivering high-quality code and improving user experience through innovative solutions.
 
 <h3 align="left">Languages and Tools:</h3>
-     <p align="left" class="ml-10">
+     <p align="center" class="ml-10">
         <a href="https://www.w3.org/html/" target="_blank"  rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
