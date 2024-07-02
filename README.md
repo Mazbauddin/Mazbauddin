@@ -126,10 +126,6 @@ A highly motivated and detail-oriented front-end developer seeking to leverage e
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Mazbauddin/contributions?format=svg&private=false)  
 
-![GitHub metrics](https://metrics.lecoq.io/Mazbauddin)  
-
-
-<p align="center"><img src="https://metrics.lecoq.io/Mazbauddin"></p>
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=Mazbauddin&theme=buefy&hide_border=false"></p>
 
