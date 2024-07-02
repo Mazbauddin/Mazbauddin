@@ -4,7 +4,8 @@
 
 <h2 align="center">Hi  👋, I'M Mazba Uddin Shawon</h2>
 
-A highly motivated and detail-oriented front-end developer seeking to leverage expertise in HTML, CSS, JavaScript, React.js, and modern UI frameworks like Tailwind CSS and Material-Tailwind to create user-friendly, responsive, and dynamic web applications. Passionate about delivering high-quality code and improving user experience through innovative solutions.
+<h3 align="left">About Me:</h3>
+<p>A highly motivated and detail-oriented front-end developer seeking to leverage expertise in HTML, CSS, JavaScript, React.js, and modern UI frameworks like Tailwind CSS and Material-Tailwind to create user-friendly, responsive, and dynamic web applications. Passionate about delivering high-quality code and improving user experience through innovative solutions.</p>
 
 <h3 align="left">Languages and Tools:</h3>
      <p align="center" class="ml-10">
