@@ -9,7 +9,7 @@
 
  <br/>
  
-- 👑 I’m a Web Developer.
+- 👑 I’m a Frontend Developer.
 - 🌱 I’m currently learning Javascript 
 - 🖊️ Love to write code  
 - 👯 I’m looking to collaborate on github
