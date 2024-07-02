@@ -138,8 +138,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mazbauddin)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h3 align="left">Most Used Languages:</h3>
-<p><a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazbauddin"> <img align="left" src="https://github.com/anuraghazra/github-readme-stats" height="50" width="210" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=Mazbauddin" /></a></p><br><br>
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mazbauddin)](https://github.com/anuraghazra/github-readme-stats)
