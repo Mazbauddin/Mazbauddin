@@ -5,9 +5,8 @@
 A highly motivated and detail-oriented front-end developer seeking to leverage expertise in HTML, CSS, JavaScript, React.js, and modern UI frameworks like Tailwind CSS and Material-Tailwind to create user-friendly, responsive, and dynamic web applications. Passionate about delivering high-quality code and improving user experience through innovative solutions.
 
 <h3 align="left">Languages and Tools:</h3>
-      <p align="left">
+     <p align="left">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5"
@@ -20,7 +19,6 @@ A highly motivated and detail-oriented front-end developer seeking to leverage e
           target="_blank"
           rel="noreferrer"
         >
-          
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3"
@@ -33,7 +31,6 @@ A highly motivated and detail-oriented front-end developer seeking to leverage e
           target="_blank"
           rel="noreferrer"
         >
-          
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript"
@@ -42,7 +39,6 @@ A highly motivated and detail-oriented front-end developer seeking to leverage e
           />
         </a>
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          
           <img
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
             alt="tailwind"
@@ -50,9 +46,7 @@ A highly motivated and detail-oriented front-end developer seeking to leverage e
             height="40"
           />
         </a>
-        
         <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react"
@@ -61,7 +55,6 @@ A highly motivated and detail-oriented front-end developer seeking to leverage e
           />
         </a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          
           <img
             src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
             alt="figma"
@@ -70,7 +63,6 @@ A highly motivated and detail-oriented front-end developer seeking to leverage e
           />
         </a>
         <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-          
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
             alt="photoshop"
@@ -79,7 +71,6 @@ A highly motivated and detail-oriented front-end developer seeking to leverage e
           />
         </a>
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          
           <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
             alt="firebase"
@@ -88,7 +79,6 @@ A highly motivated and detail-oriented front-end developer seeking to leverage e
           />
         </a>
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
             alt="mongodb"
@@ -97,7 +87,6 @@ A highly motivated and detail-oriented front-end developer seeking to leverage e
           />
         </a>
         <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-          
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs"
@@ -106,7 +95,6 @@ A highly motivated and detail-oriented front-end developer seeking to leverage e
           />
         </a>
         <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express"
