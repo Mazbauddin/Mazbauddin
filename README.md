@@ -128,11 +128,10 @@ A highly motivated and detail-oriented front-end developer seeking to leverage e
 
 ![GitHub metrics](https://metrics.lecoq.io/Mazbauddin)  
 
- 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Mazbauddin)  
+
 
 <p align="center"><img src="https://streak-stats.demolab.com/?user=Mazbauddin&theme=buefy&hide_border=false"></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Mazbauddin&theme=buefy&hide_border=false"></p>
+
 
 
 
