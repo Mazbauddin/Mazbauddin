@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQHqEjta6hqrvw/profile-displaybackgroundimage-shrink_350_1400/0/1719914432085" width="100%" />
+
 
 <h1 align="center">Hi 👋, I'm Mazba Uddin Shawon</h1>
 
