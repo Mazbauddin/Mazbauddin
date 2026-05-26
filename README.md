@@ -23,8 +23,8 @@ I’m a passionate Frontend Developer who loves transforming ideas into real-wor
 
 ### 🌐 Portfolio & Contact
 
-- 🌍 Portfolio: **https://your-portfolio-link.com**
-- 📧 Email: **your-email@gmail.com**
+- 🌍 Portfolio: **https://mazba-dev-portfolio.netlify.app/**
+- 📧 Email: **mazbauddin2010@gmail.com**
 
 ---
 
